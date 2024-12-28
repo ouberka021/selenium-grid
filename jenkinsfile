@@ -8,8 +8,8 @@ pipeline {
     stages {
         stage('Clone code') {
             steps {
-               //  https://github.com/Cydeo-B36/selenium-grid-demo'
-                git 'https://github.com/ouberka021/selenium-grid.git'
+                 https://github.com/Cydeo-B36/selenium-grid-demo'
+                //git 'https://github.com/ouberka021/selenium-grid.git'
             }
         }
 
